@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.volunteer.signup.volunteersignup.VolunteersignupApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.333 s - in com.volunteer.signup.volunteersignup.VolunteersignupApplicationTests
